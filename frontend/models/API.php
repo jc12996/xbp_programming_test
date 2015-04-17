@@ -6,7 +6,7 @@ class API
 
 {
 
- public static $baseUrl = "http://backend";
+ public static $baseUrl = "http://www.johnxbpapi.com";
 
  public static function curl($path)
 
